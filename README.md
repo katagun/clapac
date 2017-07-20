@@ -1,6 +1,6 @@
 # Intro
 
-Web scrapping in a constantly moving target.
+Web scrapping is a constantly moving target.
 This is a quick and dirty attempt at scrapping Craigslist for
 apartments data which could be useful to someone
 looking for a place to call home (rent). If you fancy scrapy,

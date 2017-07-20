@@ -10,7 +10,7 @@ and it was difficult to do with scrapy.
 
 This code works with the Craigslist.org as of July 19 2017.
 It may break and not work at any point in the future,
-and it is not going to be carefully maintained.o
+and it is not going to be carefully maintained.
 
 Also, crawling is done sequentially with randomized delays,
 and crawling Denver Metro, Colorado should take about an hour.

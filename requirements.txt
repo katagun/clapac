@@ -10,7 +10,7 @@ cssselect==1.0.1
 hyperlink==17.2.1
 idna==2.5
 incremental==17.5.0
-lxml==3.8.0
+lxml==4.6.5
 parsel==1.2.0
 pyasn1==0.2.3
 pyasn1-modules==0.0.9
@@ -20,10 +20,10 @@ pyOpenSSL==17.0.0
 queuelib==1.4.2
 readline==6.2.4.1
 requests==2.18.1
-Scrapy==1.4.0
+Scrapy==1.8.2
 service-identity==17.0.0
 six==1.10.0
-Twisted==17.5.0
 urllib3==1.26.5
+Twisted==22.1.0
 w3lib==1.17.0
 zope.interface==4.4.2
